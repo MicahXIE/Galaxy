@@ -8,10 +8,13 @@
 4. Practice Source Code Repo: https://github.com/adonovan/gopl.io/
 
 5. Example
+
+```
 $ export GOPATH=$HOME/gobook # 选择工作目录
 $ go get gopl.io/ch1/helloworld # 获取/编译/安装
 $ $GOPATH/bin/helloworld # 运行程序
 Hello, 世界 # 这是中文
+```
 
 6. Install
 https://golang.org/doc/install
